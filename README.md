@@ -59,9 +59,17 @@ ROLLBACK:資料庫的錯誤回覆機制。
 線上訂票客戶系統,售票員服務系統,系統管理員系統、資料庫伺服器管理系統。
 
 系統資料流程如下圖
+![image](https://github.com/Lancer0912/fin/blob/main/image/3-1%E9%A0%82%E5%B1%A4%E6%95%B8%E6%93%9A%E6%B5%81%E7%A8%8B%E5%9C%96.png)
 
+頂層數據流程圖
 
+![image](https://github.com/Lancer0912/fin/blob/main/image/3-1%E7%AC%AC%E4%B8%80%E5%B1%A4%E6%95%B8%E6%93%9A%E6%B5%81%E7%A8%8B%E5%9C%96.png)
 
+第一層數據流程圖
+
+![image](https://github.com/Lancer0912/fin/blob/main/image/3-1%E7%AC%AC%E4%BA%8C%E5%B1%A4%E6%95%B8%E6%93%9A%E6%B5%81%E7%A8%8B%E5%9C%96.png)
+
+第二層數據流程圖
 
 
 
