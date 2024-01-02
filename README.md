@@ -97,11 +97,20 @@ ROLLBACK:資料庫的錯誤回覆機制。
 
 模塊關係圖
 
+系統E-R圖如下:
 
+1.E--R圖
+![image](https://github.com/Lancer0912/fin/blob/main/image/4-2E-R%E5%9C%96.png)
 
+列車-時間ER圖如下:
+![image](https://github.com/Lancer0912/fin/blob/main/image/4-2%E5%88%97%E8%BB%8A-%E6%99%82%E9%96%93ER%E5%9C%96.png)
 
-
-
+售票ER圖如下:
+![image](https://github.com/Lancer0912/fin/blob/main/image/4-2%E5%94%AE%E7%A5%A8ER%E5%9C%96.png)
+## 物理結構設計
+### 5.物理結構設計要點
+![image](https://github.com/Lancer0912/fin/blob/main/image/5%20%E7%89%A9%E7%90%86%E7%B5%90%E6%A7%8B%E8%A8%AD%E8%A8%88%E8%A6%81%E9%BB%9E%E5%9C%96.png)
+**管理員信息**
 
 
 
